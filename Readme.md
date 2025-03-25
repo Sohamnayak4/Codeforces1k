@@ -7,7 +7,7 @@ A personal challenge to solve 1000 Codeforces problems to improve algorithmic pr
 ## 📊 Progress
 
 - **Problems Solved**: 83/1000
-- **Current Streak**: X days
+- **Current Streak**: 1 days
 - **Last Updated**: March 2025
 
 ## 📚 Problem Solutions
@@ -23,18 +23,10 @@ Each problem includes a link to the original problem and my solution.
 
 ### By Difficulty
 - 800-1300: 83 problems
-- 1300-1399: X problems
-- 1399-1499: X problems
-- 1599+: X problems
+- 1300-1399: 0 problems
+- 1399-1499: 0 problems
+- 1599+: 0 problems
 
-### By Topic
-- Implementation: X problems
-- Math: X problems
-- Greedy: X problems
-- Dynamic Programming: X problems
-- Graphs: X problems
-- String: X problems
-- Other: X problems
 
 ## 🎯 Goals
 
@@ -44,9 +36,6 @@ Each problem includes a link to the original problem and my solution.
 - [ ] Solve 750 problems
 - [ ] Solve 1000 problems 🎉
 
-## 💡 Methodology
-
-Brief description of your approach to solving problems, learning strategies, etc.
 
 ## 🔗 Resources
 
