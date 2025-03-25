@@ -1,6 +1,6 @@
 # Codeforces 1K Challenge 🏆
 
-![Progress](https://progress-bar.dev/8.2/?scale=100&title=Problems%20Solved&width=500&suffix=%20/%201000)
+![Progress](![Progress](https://img.shields.io/badge/Progress-8.3%25%20(83%20of%201000)-blue))
 
 A personal challenge to solve 1000 Codeforces problems to improve algorithmic problem-solving skills.
 
