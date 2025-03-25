@@ -17,6 +17,7 @@ Each problem includes a link to the original problem and my solution.
 | # | Problem | Solution | Difficulty | Tags | Notes |
 |---|---------|----------|------------|------|-------|
 | 89 | [Dubstep](https://codeforces.com/problemset/problem/208/A) | [Solution](https://gist.github.com/Sohamnayak4/f73b4f378cc770513f6883a82cc0e034) | 900 | String, Implementation | Simple String Manipulation |
+| 90 | [K-string](https://codeforces.com/problemset/problem/219/A) | [Solution](https://gist.github.com/Sohamnayak4/d7df6ce731dfafb29bf3f924ea4cc5d1) | 1000 | String, Implementation | Simple String Manipulation |
 <!-- Add more problems here -->
 
 ## 📈 Statistics
