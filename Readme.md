@@ -33,6 +33,7 @@ Each problem includes a link to the original problem and my solution.
 
 ## 🎯 Goals
 
+- [x] Solve 50 problems
 - [ ] Solve 100 problems
 - [ ] Solve 250 problems
 - [ ] Solve 500 problems
